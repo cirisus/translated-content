@@ -1,5 +1,5 @@
 ---
-title: 文本渲染
+title: text-rendering
 slug: Web/CSS/text-rendering
 ---
 
