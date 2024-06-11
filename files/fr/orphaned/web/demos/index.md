@@ -1,6 +1,7 @@
 ---
 title: Démos de technologies open web
-slug: Web/Demos
+slug: orphaned/Web/Demos
+original_slug: Web/Demos
 ---
 
 Mozilla supporte une large gamme de technologies open web vraiment intéressantes, et nous encourageons leur utilisation. Cette page offre des liens vers d'intéressantes démonstrations de ces technologies. Si vous avez entendu parler d'une bonne démonstration ou d'une application de technologie open web, veuillez ajouter un lien vers la section appropriée ici.
